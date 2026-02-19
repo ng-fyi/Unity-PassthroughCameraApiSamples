@@ -167,14 +167,14 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: com.samples.passthroughcamera
+    Android: com.PHORIAStudios.NocturneSandbox
   buildNumber:
     Standalone: 0
     VisionOS: 0
     iPhone: 0
     tvOS: 0
-  overrideDefaultApplicationIdentifier: 0
-  AndroidBundleVersionCode: 1
+  overrideDefaultApplicationIdentifier: 1
+  AndroidBundleVersionCode: 165
   AndroidMinSdkVersion: 32
   AndroidTargetSdkVersion: 32
   AndroidPreferredInstallLocation: 0
